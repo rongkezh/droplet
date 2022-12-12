@@ -1,3 +1,6 @@
+from drop import Drop
+
+
 msg = "Welcome to droplets game."
 print(msg)
 
