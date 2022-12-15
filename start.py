@@ -1,7 +1,12 @@
 from drop import Drop
 
+# Display a welcome message
 
-msg = "Welcome to droplets game."
-print(msg)
 
-msg.capitalize
+
+# Generate a random map of droplets.
+
+
+drop1 = Drop(1,2,1)
+print(drop1)
+
