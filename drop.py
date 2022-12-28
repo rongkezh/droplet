@@ -8,6 +8,7 @@ class Game:
     def main(self):
         while True:
             print("main")
+            break
 
 
 # drops at grids
