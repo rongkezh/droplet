@@ -57,6 +57,7 @@ class Game:
         self.board = Board(size, pop_size)
         self.water = water
         self.rounds = 0
+        self.size = size
         print("Welcom to Droplet game!")
         print(f"On this {size} by {size} board, each cell can hold up to {pop_size} drops of water before it pops.")
         print("Try to pop every cell. Good luck!")
